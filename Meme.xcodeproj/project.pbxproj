@@ -97,6 +97,7 @@
 		DCAF539327A24F8F00DAF792 = {
 			isa = PBXGroup;
 			children = (
+				DCB027D627AF272F00F7D6C2 /* Readme.md */,
 				DCAF539E27A24F8F00DAF792 /* Meme */,
 				DCAF53AF27A24F9100DAF792 /* MemeTests */,
 				DCAF53B927A24F9100DAF792 /* MemeUITests */,
@@ -131,7 +132,6 @@
 				DCAF53D127A250DC00DAF792 /* b.wav */,
 				DCAF53A327A24F9100DAF792 /* Assets.xcassets */,
 				DCAF53A527A24F9100DAF792 /* Preview Content */,
-				DCB027D627AF272F00F7D6C2 /* Readme.md */,
 			);
 			path = Meme;
 			sourceTree = "<group>";
