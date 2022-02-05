@@ -4,9 +4,9 @@ This is a simple soundboard soundboard app that allows the user to make beats wi
 
 I wanted to create an app that looked better than the ones currently on the market, and I think I have succeeded to a degree! 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
+Youtube video describing this app:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/922YJ1hPfYw)
 
 # Development Environment
 
@@ -16,7 +16,6 @@ In this app I leveraged Swift5 and Foundation along with AVFoundation.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * Hacking With Swift(https://www.hackingwithswift.com/)
 *Code with Chris(https://codewithchris.com/)
 
