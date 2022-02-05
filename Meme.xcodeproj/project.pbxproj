@@ -66,6 +66,7 @@
 		DCB027D027AF255E00F7D6C2 /* bg.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bg.wav; sourceTree = "<group>"; };
 		DCB027D227AF256B00F7D6C2 /* gh.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = gh.wav; sourceTree = "<group>"; };
 		DCB027D427AF257900F7D6C2 /* arr.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = arr.wav; sourceTree = "<group>"; };
+		DCB027D627AF272F00F7D6C2 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +131,7 @@
 				DCAF53D127A250DC00DAF792 /* b.wav */,
 				DCAF53A327A24F9100DAF792 /* Assets.xcassets */,
 				DCAF53A527A24F9100DAF792 /* Preview Content */,
+				DCB027D627AF272F00F7D6C2 /* Readme.md */,
 			);
 			path = Meme;
 			sourceTree = "<group>";
